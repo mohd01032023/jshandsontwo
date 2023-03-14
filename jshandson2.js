@@ -1,4 +1,1 @@
-function reusableFunction(){
-  console.log("Hi world");
-}
-reusableFunction();
+let timesFive = (x) => 5*x
