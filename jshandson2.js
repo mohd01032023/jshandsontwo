@@ -1,2 +1,4 @@
-// Only change code below this line
-const myArray = ["a string", 5];
+function reusableFunction(){
+  console.log("Hi world");
+}
+reusableFunction();
